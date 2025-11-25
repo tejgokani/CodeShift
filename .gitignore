@@ -1,0 +1,12 @@
+node_modules/
+*.log
+.DS_Store
+coverage/
+*.codeshift.bak
+dist/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+

@@ -1,0 +1,41 @@
+# Test files and dev tools
+__tests__/
+*.test.js
+jest.config.js
+coverage/
+
+# Development files
+.git/
+.github/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Development documentation
+QUICKSTART.md
+PUBLISH_CHECKLIST.md
+NPM_READY.md
+REBRANDING_SUMMARY.md
+
+# Temporary files
+*.log
+.DS_Store
+*.codeshift.bak
+temp-*/
+
+# Dependencies
+node_modules/
+
+# Build artifacts
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
+# Lock files (optional - some prefer to include)
+package-lock.json
+

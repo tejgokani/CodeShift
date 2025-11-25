@@ -1,0 +1,61 @@
+{
+  "name": "codeshift",
+  "version": "0.1.0",
+  "description": "CodeShift — AST-driven refactor engine to port projects between frameworks/APIs. CLI + library. Use with caution; review changes before applying.",
+  "main": "index.js",
+  "bin": {
+    "codeshift": "./bin/teleporter.js"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "scripts": {
+    "prepare": "echo \"prepare step (none)\""
+  },
+  "keywords": [
+    "codemod",
+    "ast",
+    "refactor",
+    "teleport",
+    "migrate",
+    "express",
+    "fastify",
+    "cjs",
+    "esm",
+    "mongoose",
+    "prisma",
+    "transformer",
+    "code-migration",
+    "automation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tejgokani/CodeShift.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tejgokani/CodeShift/issues"
+  },
+  "homepage": "https://github.com/tejgokani/CodeShift#readme",
+  "dependencies": {
+    "recast": "^0.23.0",
+    "@babel/parser": "^7.22.0",
+    "@babel/traverse": "^7.22.0",
+    "commander": "^11.0.0",
+    "glob": "^10.0.0",
+    "chalk": "^4.1.2",
+    "fs-extra": "^11.1.1"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
+
