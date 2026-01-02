@@ -146,3 +146,9 @@ MIT
 
 **This tool is provided as-is. Always review changes before committing to production.** Complex migrations require manual intervention and testing.
 
+
+## Installation
+
+```bash
+npm install
+```
