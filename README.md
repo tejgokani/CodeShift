@@ -167,3 +167,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
