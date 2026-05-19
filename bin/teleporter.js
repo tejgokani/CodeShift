@@ -92,3 +92,6 @@ function reportToMarkdown(report) {
   return lines.join('\n');
 }
 
+## Getting Started
+
+Follow the installation steps above to get started with development.
