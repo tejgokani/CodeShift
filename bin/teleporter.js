@@ -96,4 +96,4 @@ function reportToMarkdown(report) {
 
 Follow the installation steps above to get started with development.
 
-Last updated: 2026-05-25
+Last updated: 2026-05-26
